@@ -33,15 +33,15 @@ My Command Line Shell is: Windows PowerShell
 
 ### Navigating My OS on the Command Line
 
-1. Full / absolute path to your user's home directory:
-2. Create a directory named `DirA`:
-3. Create a directory named `Dir B`:
-4. Go into `DirA`:
-5. Go into `Dir B` from `DirA`:
-6. Return to your user's home directory:
-7. Create a file named `test.txt`:
-8. Move the file named `test.txt` into `DirA`:
-9. Contents of `test.txt`:
+1. Full / absolute path to your user's home directory: Get-Location
+2. Create a directory named `DirA`: mkdir DirA
+3. Create a directory named `Dir B`: mkdir "Dir B"
+4. Go into `DirA`: Set-Location DirA
+5. Go into `Dir B` from `DirA`: Set-Location "..\Dir B"
+6. Return to your user's home directory: Set-Location ..\
+7. Create a file named `test.txt`: New-Item test.txt
+8. Move the file named `test.txt` into `DirA`: Move-Item test.txt DirA
+9. Contents of `test.txt`: 
 ```
 Put your words here
 ```
