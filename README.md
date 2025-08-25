@@ -1,16 +1,13 @@
-## Hi there 👋
+## William Brinkman 
+# Electrical and Computer Engineering Technologies 
 
-<!--
-**Oh-noes117/Oh-noes117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My personal Hobbies include
+- Woodworking
+- Music (Drums/Piano)
+- TTRPGS (Table Top Role Playing Games)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects for my Woodworking Shop (also my garage)
+# Outfeed Table 
+- Need to build a large outfeed table for my tablesaw for ripping and cutting large sheet materials
+# Hobby Desk
+- My brother paints minitures for gaming (40k Warhammer, DnD).  Want to build him a table for his birthday.  He needs a new one
