@@ -29,27 +29,27 @@ My OS is:
 - [] Linux
 - [] Mac
 
-My Command Line Shell is: Windows PowerShell 
+My Command Line Shell is: Windows PowerShell, but trying out WSL.
 
 ### Navigating My OS on the Command Line
 
-1. Full / absolute path to your user's home directory: Get-Location
-2. Create a directory named `DirA`: mkdir DirA
-3. Create a directory named `Dir B`: mkdir "Dir B"
-4. Go into `DirA`: Set-Location DirA
-5. Go into `Dir B` from `DirA`: Set-Location "..\Dir B"
-6. Return to your user's home directory: Set-Location ..\
-7. Create a file named `test.txt`: New-Item test.txt
-8. Move the file named `test.txt` into `DirA`: Move-Item test.txt DirA
-9. Contents of `test.txt`: 
+1. Full / absolute path to your user's home directory: **Get-Location**
+2. Create a directory named `DirA`: **mkdir DirA**
+3. Create a directory named `Dir B`: **mkdir "Dir B"**
+4. Go into `DirA`: **cd DirA**
+5. Go into `Dir B` from `DirA`: **cd "..\Dir B"**
+6. Return to your user's home directory: **cd ..**
+7. Create a file named `test.txt`: **New-Item test.txt**
+8. Move the file named `test.txt` into `DirA`: **Move-Item test.txt DirA**
+9. Contents of `test.txt`: **notepad test.txt**
 ```
-Put your words here
+**Hello World!**
 ```
-10. Make a copy of `test.txt` named `copy.txt` in `DirA`:
-11. View the contents of `DirA`: 
-12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`:
-13. Delete / remove both `fodder.txt` AND `Dir B`:
+10. Make a copy of `test.txt` named `copy.txt` in `DirA`: **copy test.txt copy.txt**
+11. View the contents of `DirA`: **ls**
+12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: **copy test.txt "C:\Users\Will\Dir B\fodder.txt"**
+13. Delete / remove both `fodder.txt` AND `Dir B`: **rm fodder.txt**, **cd ..**, **rm "Dir B"**
 
 ## Citations
 
-To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
+-Used Google for the correct syntax needed to make a Directory with a space in it.  
