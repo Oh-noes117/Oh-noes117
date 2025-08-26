@@ -1,4 +1,4 @@
-**# William Brinkman** 
+# William Brinkman
 
 
 # Previous Education
