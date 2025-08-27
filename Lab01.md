@@ -43,7 +43,7 @@ My Command Line Shell is: Windows PowerShell, but trying out WSL.
 8. Move the file named `test.txt` into `DirA`: **Move-Item test.txt DirA**
 9. Contents of `test.txt`: **notepad test.txt**
 ```
-**Hello World!**
+Hello World!
 ```
 10. Make a copy of `test.txt` named `copy.txt` in `DirA`: **copy test.txt copy.txt**
 11. View the contents of `DirA`: **ls**
