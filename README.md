@@ -19,6 +19,6 @@
 
 # Projects for my Woodworking Shop (really my garage)
 ## Outfeed Table 
-- Need to build a large outfeed table for my tablesaw for ripping and cutting large sheet materials
+- Need to build a large outfeed table for my table saw for ripping and cutting large sheet materials
 ## Hobby Desk
-- My brother paints minitures for gaming (40k Warhammer, DnD).  Want to build him a table for his birthday.  He needs a new one
+- My brother paints miniatures for gaming (40k Warhammer, D&D).  Want to build him a table for his birthday.  He needs a new one
