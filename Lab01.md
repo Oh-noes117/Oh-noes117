@@ -12,7 +12,7 @@
 | Windows | Linux / Mac | Action |
 | ---     | ---         | ---    |
 | help    | man         |Lists Possible commands |
-| Get-Location | pwd    |Dispalys the current Path        |
+| Get-Location | pwd    |Displays the current Path        |
 | Get-ChildItem | ls    |Displays all the folders and files in the current path        |
 | mkdir   | mkdir       |Create a new Directory (Folder)        |
 | Set-Location | cd     |Change the current Path (Directory)        |
